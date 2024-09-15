@@ -55,4 +55,4 @@ If you prefer to use a pre-built version of the application, follow these steps:
 
 ## Contact
 
-For further assistance or feedback, please contact the development team via [support email] or visit our [support page](#).
+For further assistance or feedback, please contact the developer via [vshah99934@gmail.com](#).
